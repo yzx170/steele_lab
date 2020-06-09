@@ -9,4 +9,4 @@ Matlab data file containg participant inverse kinematic and inverse dynamic data
 ###### Output
 Cluster results corresponding to each gait cycle during exploration trials.
 ###### Methods
-Singular value decomposition, gait feature scores, weighted average
+Singular value decomposition, Gait feature scores, Time-series clustering
